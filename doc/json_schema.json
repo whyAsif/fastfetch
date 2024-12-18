@@ -437,7 +437,7 @@
                                 "raw",
                                 "none"
                             ],
-                            "default": "auto"
+                            "default": "Panwah"
                         },
                         "source": {
                             "type": "string",
